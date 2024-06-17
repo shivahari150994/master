@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the subset of machine learning methods based on neural networks with representation learning?,a: Supervised learning | b: Deep learning | c: Unsupervised learning | d: Reinforcement learning,b
+Which adjective refers to the use of multiple layers in the network in deep learning?,a: Shallow | b: Wide | c: Deep | d: Narrow,c
+Which deep-learning architecture is commonly used for computer vision tasks?,a: Deep belief networks | b: Recurrent neural networks | c: Convolutional neural networks | d: Transformers,c
+What field has deep learning NOT been applied to?,a: Computer vision | b: Speech recognition | c: Agriculture | d: Natural language processing,c
+What were early forms of neural networks inspired by?,a: Computer programming | b: Biological systems | c: Physics principles | d: Mathematical equations,b
