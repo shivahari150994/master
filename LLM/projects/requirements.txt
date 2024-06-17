@@ -10,3 +10,5 @@ python-dotenv
 PYPDF2
 pandas
 numpy
+
+-e .
